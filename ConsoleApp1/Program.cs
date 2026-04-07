@@ -43,6 +43,7 @@ namespace WeiTuo
         static bool IdAsc(Student a, Student b)
         {
             return a.Id > b.Id;
+            Console.WriteLines("push一下试试")
         }
         static bool IdDesc(Student a, Student b)
         {
